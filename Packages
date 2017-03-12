@@ -1,0 +1,15 @@
+Package: com.hentaiking69.corn
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: hentaiking69 <hentaiking69@gmail.com>
+Depends: 
+Filename: debs//corn/com.hentaiking69.corn.deb
+Size: <deb in bytes>
+MD5sum: <md5 hash of deb>
+SHA1: <sha1 hash of deb>
+SHA256: <sha256 of deb>
+Section: Apps
+Description: PornHub client for your iPhone
+Author: hentaiking69 <hentaiking69@gmail.com>
+Depiction: http://hentaiking69.github.io/Depic/corn/index.html
+Name: Corn
